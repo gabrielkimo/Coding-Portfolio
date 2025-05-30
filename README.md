@@ -4,3 +4,6 @@ mtcarapp.R -
   Functionality also includes a bar to filter any of the selected variables by their corresponding MPG variable for each observation.
   Tooltips for each piece of the app the user can interact with appear when hovering over with the mouse.
 
+PSTAT100 FinalProject.rmd, PSTAT100 FinalProject.pdf, and titanic.csv -
+  These files contain a project where my group and I performed preliminary data analysis on our chosen data set, titanic.csv.  Over the course of the project performed prelimanary data analysis, cleaned the data, and developed hypotheses. 
+  We then used logistic regression modeling and the Wilcoxon rank-sum test in R to test our hypotheses, and presented our conclusions within the report based on the results of our hypothesis testing.  
