@@ -2,10 +2,8 @@ mtcarapp.R -
   * This is a project in which I designed an app in R using the 'plotly' package in R that would take the mtcars dataset from 
     R, and allow the user to create different types of plot from a chosen variable in the dataset, while also displaying 
     general summary statistics for the selected variable.
-  * Functionality also includes a bar to filter the plotted variable by it's corresponding MPG values for each 
-    observation.
-  * Tooltips appear when hovering the mouse over anything the user can interact with, giving more detail about the 
-    functionality.
+  * Functionality includes a bar to filter the plotted variable by it's corresponding MPG values for each 
+    observation, and tooltips appear when hovering the mouse over anything the user can interact with.
   * Compatability with the selected variable and the desired plot type is verified by the app, protecting from most use-cases 
     where a plot would return as innaccurate or empty.
 
